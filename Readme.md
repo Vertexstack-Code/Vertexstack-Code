@@ -13,138 +13,72 @@
 
 ---
 
-# ⚡ AI • Trading • Blockchain • Infrastructure
+## 🛠️ What I Build
 
-I design and build **high-performance intelligent systems** across:
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🤖 Artificial Intelligence
-- 💹 Trading Infrastructure
-- ⛓️ Blockchain & Web3
-- ⚙️ Backend Architecture
-- 🔐 Cybersecurity
-
-Focused on:
-- scalable production systems
-- low-latency architectures
-- AI automation
-- financial technology
-- distributed infrastructure
+- **AI Agent Systems** — Autonomous agents using OpenAI, Claude, n8n, RAG pipelines, embeddings, and semantic search.
+- **Trading Platforms** — Crypto exchanges, matching engines, order books, arbitrage bots, and real-time WebSocket feeds.
+- **Blockchain Infrastructure** — Web3 wallets, smart contract integrations, Ethereum tools, and DeFi backend systems.
+- **Full-Stack Apps** — React, Next.js, Node.js, Python, Supabase, PostgreSQL, and scalable APIs.
+- **Automation Systems** — AI workflow automation, data pipelines, dashboards, and intelligent business tools.
 
 ---
 
-# 🚀 About Me
+## 🚀 Featured Projects
 
-* 🤖 AI Expert & LLM Systems Engineer
-* 💹 Trading Systems & Exchange Infrastructure Engineer
-* ⛓️ Blockchain & Web3 Architect
-* ⚙️ Distributed Backend Systems Specialist
-* 🔐 Security-Focused Software Engineer
-* 🌐 Full Stack Application Developer
-
----
-
-# 🤖 AI Engineering
-
-### AI Systems & Automation
-
-- Autonomous AI agents
-- RAG pipelines & semantic search
-- OpenAI & Claude integrations
-- AI workflow automation
-- Multi-agent orchestration systems
-- Intelligent chatbots
-- Embedding systems & vector databases
-
-### AI Stack
-
-`OpenAI` `Claude` `LangChain` `RAG`
-`Embeddings` `Vector Search`
-`Python` `FastAPI`
+| Project | Stack | Link |
+|---|---|---|
+| **AI Trading Bot** | Python, OpenAI, APIs, Automation | Private Demo |
+| **Crypto Exchange System** | Ruby on Rails, Kafka, Redis, WebSocket | NDA Protected |
+| **AI Agent Platform** | OpenAI, Claude, n8n, RAG, React | Private Repo |
+| **Blockchain Wallet App** | Web3, Ethereum, React, Node.js | GitHub |
+| **AI Website Chatbot** | OpenAI, Embeddings, Semantic Search | GitHub |
 
 ---
 
-# 💹 Trading Systems
+## 🧠 AI Expertise
 
-### Financial Infrastructure
+<p align="center">
+  <img width="500" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" />
+</p>
 
-- Crypto exchange systems
-- Matching engines
-- Order book systems
-- High-frequency trading infrastructure
-- Real-time WebSocket market feeds
-- Trading bots & automation
-- Risk management systems
+I specialize in building intelligent AI-powered systems that combine automation, data, APIs, and real-world business workflows.
 
-### Trading Technologies
-
-`WebSockets`
-`Kafka`
-`Redis`
-`PostgreSQL`
-`Node.js`
-`Python`
+- LLM applications
+- AI agents
+- RAG pipelines
+- Vector databases
+- Prompt engineering
+- Workflow automation
+- AI chatbots
+- Trading intelligence systems
 
 ---
 
-# ⛓️ Blockchain & Web3
+## 📊 GitHub Stats
 
-### Blockchain Engineering
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vertexstack-Code&show_icons=true&theme=tokyonight" />
+</p>
 
-- Smart contract integrations
-- Wallet systems
-- Ethereum infrastructure
-- DeFi platforms
-- Blockchain explorers
-- Web3 backend systems
-- On-chain analytics
-
-### Blockchain Stack
-
-`Ethereum`
-`Web3`
-`Geth`
-`Solidity`
-`Wallet Integration`
-`Exchange Infrastructure`
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vertexstack-Code&theme=tokyonight" />
+</p>
 
 ---
 
-# ⚙️ Backend & Infrastructure
+## 📫 Let's Connect
 
-### Infrastructure Engineering
-
-- Distributed systems
-- Event-driven architecture
-- Scalable microservices
-- API architecture
-- Cloud-native systems
-- CI/CD pipelines
-- Docker & Kubernetes
-
-### Backend Stack
-
-`Node.js`
-`TypeScript`
-`Python`
-`Fastify`
-`FastAPI`
-`Kafka`
-`Redis`
-`AWS`
-`Docker`
+- GitHub: https://github.com/Vertexstack-Code
+- Telegram: @VertexStack
+- Email: your-email@example.com
 
 ---
 
-# 🔐 Cybersecurity
-
-- Secure authentication systems
-- API security
-- Infrastructure hardening
-- Secure architecture design
-- Vulnerability mitigation
-- Data protection systems
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Expert;Trading+Systems+Engineer;Blockchain+Architect;Web3+Infrastructure+Builder;Automation+Engineer" />
+</p>
 
 # 🚀 Featured Projects
 
