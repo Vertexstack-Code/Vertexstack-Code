@@ -15,7 +15,7 @@
 
 ## 🛠️ What I Build
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 
 - **AI Agent Systems** — Autonomous agents using OpenAI, Claude, n8n, RAG pipelines, embeddings, and semantic search.
 - **Trading Platforms** — Crypto exchanges, matching engines, order books, arbitrage bots, and real-time WebSocket feeds.
