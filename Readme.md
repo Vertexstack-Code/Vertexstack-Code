@@ -37,36 +37,6 @@
 
 ---
 
-## 🧠 AI Expertise
-
-<p align="center">
-  <img width="500" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" />
-</p>
-
-I specialize in building intelligent AI-powered systems that combine automation, data, APIs, and real-world business workflows.
-
-- LLM applications
-- AI agents
-- RAG pipelines
-- Vector databases
-- Prompt engineering
-- Workflow automation
-- AI chatbots
-- Trading intelligence systems
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vertexstack-Code&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vertexstack-Code&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Let's Connect
 
