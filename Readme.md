@@ -25,40 +25,19 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Stack | Link |
-|---|---|---|
-| **AI Trading Bot** | Python, OpenAI, APIs, Automation | Private Demo |
-| **Crypto Exchange System** | Ruby on Rails, Kafka, Redis, WebSocket | NDA Protected |
-| **AI Agent Platform** | OpenAI, Claude, n8n, RAG, React | Private Repo |
-| **Blockchain Wallet App** | Web3, Ethereum, React, Node.js | GitHub |
-| **AI Website Chatbot** | OpenAI, Embeddings, Semantic Search | GitHub |
-
----
 
 
 ## 📫 Let's Connect
 
 - GitHub: https://github.com/Vertexstack-Code
-- Telegram: @VertexStack
-- Email: your-email@example.com
+- Telegram: @PineCrypto
+- Email: alakophi@gmail.com
 
 ---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Expert;Trading+Systems+Engineer;Blockchain+Architect;Web3+Infrastructure+Builder;Automation+Engineer" />
 </p>
-
-# 🚀 Featured Projects
-
-| Project | Stack | Link |
-|---|---|---|
-| Fastify Boilerplate | Node.js, Fastify, TypeScript | https://github.com/Vertexstack-Code |
-| LocalBitcoinBot | Python, Trading Automation | https://github.com/Vertexstack-Code |
-| AI Agent Systems | OpenAI, RAG, Automation | Private |
-| Crypto Exchange Infrastructure | Matching Engine, WebSockets | Private |
-| Blockchain Systems | Ethereum, Web3 Infrastructure | Private |
 
 ---
 
@@ -112,14 +91,6 @@
 - Focus on automation
 - Design secure architectures
 - Optimize for real-world impact
-
----
-
-# 📫 Contact
-
-- GitHub: https://github.com/Vertexstack-Code
-- Telegram: @forex_cracker
-- Email: willcome0022@gmail.com
 
 ---
 
