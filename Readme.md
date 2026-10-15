@@ -28,13 +28,14 @@
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vertexstack-Code&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="VertexStack's GitHub Stats" />
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vertexstack-Code&custom_title=VertexStack%27s%20GitHub%20Stats&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="VertexStack's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vertexstack-Code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vertexstack-Code&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vertexstack-Code&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -52,5 +53,5 @@
 ## 📫 Let's Connect
 
 - GitHub: [github.com/Vertexstack-Code](https://github.com/Vertexstack-Code)
-- Telegram: [@PineCrypto](https://t.me/PineCrypto)
+- Telegram: [@KrakenCrypto97](https://t.me/KrakenCrypto97)
 - Email: willcomeo022@gmail.com
