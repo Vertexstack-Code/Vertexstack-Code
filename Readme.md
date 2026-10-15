@@ -18,11 +18,11 @@
 
 | Project | Stack | Link |
 |---------|-------|------|
-| **Crypto Exchange Engine** | Ruby on Rails, Rust, Kafka, Redis, WebSockets | Private – NDA protected |
-| **AI Agent Platform** | OpenAI/Claude, n8n, RAG, React | Private – demo on request |
-| **Arbitrage Trading Bot** | Python, Go, Kafka, PostgreSQL | Private – demo on request |
-| **Web3 Wallet Integration** | Next.js, Ethereum, Web3.js, Supabase | Private – demo on request |
-| **AI Website Chatbot** | OpenAI, embeddings, semantic search | [GitHub](https://github.com/Vertexstack-Code) |
+| **HILUCA** | AI agents, n8n, OpenAI/Claude, React | [hiluca.com](https://hiluca.com) |
+| **grandpaapecountryclub** | REthereum, ERC-721, IPFS, Web3 wallets, ENS | [grandpaapecountryclub.com](https://grandpaapecountryclub.com/) |
+| **Arbitrage Bot** | Python, Go, Redis, WebSocket feeds | Private – NDA protected|
+| **dehub.io** | Next.js, Supabase, Web3 wallets | [dehub.io](https://dehub.io) |
+| **AI Website Chatbot** | OpenAI, embeddings, semantic search | Private – NDA protected |
 
 ---
 
